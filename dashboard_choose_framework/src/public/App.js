@@ -38,6 +38,7 @@ class App extends Component {
       console.log(error)
     }
   }
+  
 //sorting helpers
   sortingAsc(key) {
     return function(a, b) {
